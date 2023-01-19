@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 9px;
+}
+
+.mensaje-resultado {
+    height: 300px;
+    border: 2px coral solid;
+}
+
+
+
